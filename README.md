@@ -6,4 +6,7 @@ Berisi tentang referensi belajar pemrograman dari youtube hingga online course +
 
 ## Daftar Channel Youtube Untuk Belajar Pemrograman
 
-* Traversy Media <https://www.youtube.com/user/TechGuyWeb>
+| Nama  | Bahasa | Link |
+| ----- | --- | --- |
+| Traversy Media   | Inggris  | <https://www.youtube.com/user/TechGuyWeb> |
+| The Net Ninja | Inggris  | <https://www.youtube.com/user/TechGuyWeb> |
