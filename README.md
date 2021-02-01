@@ -3,4 +3,7 @@
 Berisi tentang referensi belajar pemrograman dari youtube hingga online course + rekomendasi beberapa blog komunitas.
 
 
-# Daftar Channel Youtube Untuk Belajar Pemrograman
+
+## Daftar Channel Youtube Untuk Belajar Pemrograman
+
+* Traversy Media <https://www.youtube.com/user/TechGuyWeb>
