@@ -2,5 +2,5 @@
 
 Berisi tentang referensi belajar pemrograman dari youtube hingga online course + rekomendasi beberapa blog komunitas.
 
-Daftar API
 
+# Daftar Channel Youtube Untuk Belajar Pemrograman
