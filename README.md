@@ -37,6 +37,7 @@ Berisi tentang referensi belajar pemrograman dari youtube hingga online course +
 | Freecodecamp News | Inggris | [link](https://www.freecodecamp.org/news/) | **Active** |
 | Kota Kode Blog | Indonesia | [link](https://kotakode.com/blogs?page=0) | **Active** |
 | EggHead.io | Inggris | [link](https://egghead.io/) | **Active** |
+| Sitepoint Blog | Inggris | [link](https://www.sitepoint.com/blog/) | **Active** | 
 
 ## Rekomendasi Online Course (Yang pernah saya coba)
 
@@ -47,10 +48,22 @@ Berisi tentang referensi belajar pemrograman dari youtube hingga online course +
 | Buildwithangga |  Jl. Hang Lekir XI No.2, RT.5/RW.6, Gunung, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12150 | Online | [link](https://buildwithangga.com/) | Dimulai dari 123 ribu rupiah | No | **Yes** | Ada |
 
 ## Lainnya
-- List all programming telegram grup indonesia 
+### List all programming telegram grup indonesia 
 * [link](https://github.com/hendisantika/List-All-Programming-Telegram-Group)
 
-- List all public api indonesia 
+### List all public api indonesia 
 * [link](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA)
+
+### Rekomendasi website belajar pemrograman 
+| Nama | Bahasa | Link | 
+| ---- | --- | --- |
+| Petani Kode | Indonesia | [link](https://www.petanikode.com/)
+| W3Schools | Inggris | [link](https://www.w3schools.com/) 
+> Untuk website saya hanya merekomendasikan dua saja, saran saya lebih baik baca dokumentasi resminya atau nonton tutorial di youtube
+
+### Free Programming E-book
+* [link](https://github.com/EbookFoundation/free-programming-books)
+
+Terimakasihh telah membaca sampai akhir
 
 
