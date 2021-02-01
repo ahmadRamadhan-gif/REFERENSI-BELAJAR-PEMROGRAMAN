@@ -4,10 +4,10 @@ Berisi tentang referensi belajar pemrograman dari youtube hingga online course +
 
 
 
-## Daftar Channel Youtube Untuk Belajar Pemrograman
+## Daftar Rekomendasi Channel Youtube Untuk Belajar Pemrograman
 
 | Nama  | Bahasa | Link | Status |
-| ----- | --- | --- | --- |
+| ----- | ---- | ---- | ---- |
 | Traversy Media   | Inggris  | <https://www.youtube.com/user/TechGuyWeb> | Active |
 | The Net Ninja | Inggris  | <https://www.youtube.com/user/TechGuyWeb> | Active |
 | The Coding Train | Inggris | <https://www.youtube.com/user/shiffman> | Active |
@@ -20,3 +20,17 @@ Berisi tentang referensi belajar pemrograman dari youtube hingga online course +
 | Programming With Erik | Inggris | <https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw> | Active | 
 | Coder Coder | Inggris | <https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ> | Active |
 
+
+## Rekomendasi Blog Komunitas 
+
+| Nama | Bahasa | Link | Status | 
+| ----- | --- | --- | --- |
+| Medium | Indonesia / Inggris | <https://medium.com/> | Active |
+| Dev Communiy | Inggris | <https://dev.to/> | Active |
+| Diskusi Tech | Indonesia | <https://diskusi.tech/> | Active |
+| Log Rocket Blog | Inggris | <https://blog.logrocket.com/> | Active |
+| Code Burst | Inggris | <https://codeburst.io/> | Active | 
+| Toptal Blog | Inggris | <https://www.toptal.com/blog> | Active | 
+| DigitalOcean Community | Inggris | <https://www.digitalocean.com/community> | Active |
+| Freecodecamp News | Inggris | <https://www.freecodecamp.org/news/> | Active |
+| Kota Kode Blog | Indonesia | 
