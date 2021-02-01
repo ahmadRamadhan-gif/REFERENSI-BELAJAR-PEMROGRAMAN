@@ -20,6 +20,7 @@ Berisi tentang referensi belajar pemrograman dari youtube hingga online course +
 | Programming With Erik | Inggris | [link](https://www.youtube.com/channel/UCshZ3rdoCLjDYuTR_RBubzw) | **Active** | 
 | Coder Coder | Inggris | [link](https://www.youtube.com/channel/UCzNf0liwUzMN6_pixbQlMhQ) | **Active** |
 | Tech With Tim | Inggris | [link](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg) | **Active** |
+| Programmer Zaman Now | Indonesia | [link](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ) | **Active** |
 | Clever Programmer | Inggris | [link](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ) | **Active** |
 
 
