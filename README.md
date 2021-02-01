@@ -41,9 +41,10 @@ Berisi tentang referensi belajar pemrograman dari youtube hingga online course +
 ## Rekomendasi Online Course (Yang pernah saya coba)
 
 | Nama | Lokasi | Pelatihan Secara | Link| Harga | Free Trial | Akses Seumur Hidup | Ada Kelas Gratis |
-| ---- | ------- | ----- | ---- | ---- | --- | --- | -- | 
+| ---- | ------- | ----- | ---- | ---- | --- | ----- | ------ | 
 | Dicoding | Bandung, Indonesia | Online / Offline | [link](https://www.dicoding.com/) | Dimulai dari Rp 1.500.000 | **Yes** 15 Hari | NO | Ada |
 | Progate | - | Online | [link](https://progate.com/) | Dimulai dari 0 rupiah dengan kupon - 449 ribu rupiah | **Yes** Dengan Kupon | NO | Ada |
 | Buildwithangga |  Jl. Hang Lekir XI No.2, RT.5/RW.6, Gunung, Kec. Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12150 | Online | [link](https://buildwithangga.com/) | Dimulai dari 123 ribu rupiah | No | **Yes** | Ada |
 
+> List all programming telegram grup indonesia [link](https://github.com/hendisantika/List-All-Programming-Telegram-Group)
 
